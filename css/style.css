@@ -334,6 +334,11 @@ h4 {
 	section:nth-of-type(2) {
 		margin: 0 -320px;
 	}
+	
+    #ui-work-window {
+  	opacity:0;
+  }
+
 
 }
 
@@ -633,11 +638,7 @@ font-size: 35pt;
 	margin-top: 100%;
 }
 
-  
-  #ui-work-window {
-  	opacity:0;
-  }
-
+ 
 
 }
 
