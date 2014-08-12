@@ -365,7 +365,10 @@ h4 {
 	section:nth-of-type(2) {
 		margin: 0 -220px;
 	}
-
+	
+  #ui-work-window {
+  	opacity:1;
+  }
 }
 
 @media screen and (min-width: 951px)   {
@@ -379,6 +382,10 @@ h4 {
 	section:nth-of-type(2) {
 		margin: 0 -240px;
 	}
+	
+    #ui-work-window {
+  	opacity:1;
+  }
 
 }
 
