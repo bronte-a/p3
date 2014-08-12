@@ -635,7 +635,7 @@ font-size: 35pt;
 
   
   #ui-work-window {
-  	height:0px;
+  	opacity:0;
   }
 
 
